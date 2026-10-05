@@ -10,4 +10,4 @@ Các nút mua hiện liên hệ Zalo `0867639131`. **Chưa nhận thanh toán Se
 
 30 ngày 499.000 ₫; 90 ngày 1.199.000 ₫; 180 ngày 1.999.000 ₫; 365 ngày 2.999.000 ₫; trọn đời 9.999.000 ₫.
 
-Ứng dụng Windows được phân phối riêng dưới dạng gói phát hành; thư mục `owner` chứa khóa riêng tuyệt đối không đưa lên GitHub hoặc Vercel.
+Ứng dụng Windows được phân phối trong [bản phát hành v2.25.0](https://github.com/phuongby1509-AI/emberrise-studio/releases/tag/v2.25.0); thư mục `owner` chứa khóa riêng tuyệt đối không đưa lên GitHub hoặc Vercel.
